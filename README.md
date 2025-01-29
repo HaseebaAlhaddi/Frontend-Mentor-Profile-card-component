@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL:(https://github.com/HaseebaAlhaddi/Frontend-Mentor-Order-summary-card)
-- Live Site URL:(https://haseebaalhaddi.github.io/Frontend-Mentor-Order-summary-card/)
+- Solution URL:(https://github.com/HaseebaAlhaddi/Frontend-Mentor-Profile-card-component)
+- Live Site URL:(https://haseebaalhaddi.github.io/Frontend-Mentor-Profile-card-component/)
 
 ## My process
 
